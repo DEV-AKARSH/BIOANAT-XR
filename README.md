@@ -8,15 +8,17 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://github.com/DEV-AKARSH/BIOANAT-XR/blob/main/Thumb.png" alt="project-screenshot" width="1920" height="1080/">
+<img src="https://github.com/DEV-AKARSH/BIOANAT-XR/blob/main/Thumb.png" alt="project-screenshot" width="400">
 
-<img src="https://github.com/DEV-AKARSH/BIOANAT-XR/blob/main/2hb.png" alt="project-screenshot" width="1920" height="1080/">
+<img src="https://github.com/DEV-AKARSH/BIOANAT-XR/blob/main/2hb.png" alt="project-screenshot" width="400">
 
 <h2>🛠️ Installation Steps:</h2>
 
 <p>1. Click on the link to install</p>
 
-<p>2. [Link](https://drive.google.com/file/d/1huQWcySYsSHN3RAByIye0qjerUD8gMPi/view?usp=sharing)</p>
+<p>2.
+[Link](https://drive.google.com/file/d/1huQWcySYsSHN3RAByIye0qjerUD8gMPi/view?usp=sharing)
+</p>
 
 <p>3. if it doesnot work then copy and past this url in your browser</p>
 
